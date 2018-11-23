@@ -4,7 +4,7 @@ import "fmt"
 
 // Implementation Done in O(nlog(n))+ O(n) = O(nlog(n))
 
-// Handler is a struct which stores an array of elements
+// Handler is a struct which stores a description
 type Handler struct {
 	description string
 }
